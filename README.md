@@ -53,7 +53,7 @@ Enter search query to search in the video. It can be entered later too.
  *Invalid Link! Please try again!* => The link entered is not a valid Youtube URL. Please check if it starts with " https://www.youtube.com/"
 *Transcript Not Available :(( Sorry Try Some Other Video.* => Sorry, the transcript is not available for the video entered in this case. You can always enter another video,  
 
-![alt text](https://github.com/AnushaNathRoy/Youtube-Study-Buddy/blob/main/readmeImages/mainmenu.png)
+![alt text](https://github.com/Sompa-Bhui/Youtube-Study-Buddy/blob/main/readmeImages/mainmenu.png)
 ---
 
 
@@ -66,7 +66,7 @@ Enter search query to search in the video. It can be entered later too.
 
 **Search** - This allows you to search for any content in transcript and provides a list of relevant searches. You don't need to type the exact sentence, the search feauture will take care of it and give you all the relevant choices.
 
-![alt text](https://github.com/AnushaNathRoy/Youtube-Study-Buddy/blob/main/readmeImages/navbar.png)
+![alt text](https://github.com/Sompa-/Youtube-Study-Buddy/blob/main/readmeImages/navbar.png)
 ---
 
 #### Study Mode
@@ -80,7 +80,7 @@ Enter search query to search in the video. It can be entered later too.
 
 **Download Notes (MarkDown)** - This will download a markdown of the notes you made.
 
-![alt text](https://github.com/AnushaNathRoy/Youtube-Study-Buddy/blob/main/readmeImages/studymode.png)
+![alt text](https://github.com/Sompa-Bhui/Youtube-Study-Buddy/blob/main/readmeImages/studymode.png)
 ---
 
 #### Notes Editor
@@ -92,7 +92,7 @@ You can use this to make and edit your notes while studying. The are options to 
 ## Demo
 Check out the demo at Demo.md
 
-Link: https://github.com/AnushaNathRoy/Youtube-Study-Buddy/blob/main/Demo.md
+Link: https://github.com/Sompa-Bhui/Youtube-Study-Buddy/blob/main/Demo.md
 
 ## License
 
