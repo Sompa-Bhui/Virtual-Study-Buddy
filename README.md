@@ -18,7 +18,7 @@ https://youtube-study-buddy.herokuapp.com/
 ###### Local Installation:
 
 Download the zip folder Youtube Study Buddy App. 
-(Link: https://github.com/AnushaNathRoy/Youtube-Study-Buddy/tree/main/Youtube-Study-Buddy%20App)
+(Link: https://github.com/Sompa-Bhui/Youtube-Study-Buddy/tree/main/Youtube-Study-Buddy%20App)
 
 On terminal write the commands:
 
