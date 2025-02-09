@@ -101,7 +101,5 @@ MIT
 **References:**
 [video in demo]: <https://www.youtube.com/watch?v=yOgAbKJGrTA>
 [video in demo]: <https://www.youtube.com/watch?v=I4pQbo5MQOs>
-
-https://chatgpt.com/canvas/shared/67a920e294608191886d4342d501ec24
    
  
