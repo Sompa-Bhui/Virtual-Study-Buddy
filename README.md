@@ -1,105 +1,18 @@
-# Virtual-Study-Buddy(Virtual Assistant)
+# Virtual-Study-Buddy
+Excel in your studies with a complete virtual education assistant
 
-## About The Project
-The app is your perfect companion while you binge youtube videos to study and revise. The app helps you in note-taking as well as searching through long video lectures.
+## Inspiration
+The increasing shift toward digital education and the growing need for accessible and flexible learning inspired us to build this project. While virtual learning gained prominence during the pandemic, it continues to evolve as a powerful tool for students worldwide. Our goal is to create a socially impactful solution that enhances online learning, making it more engaging, interactive, and inclusive—especially for students with diverse learning needs. By leveraging technology, we aim to bridge gaps in education, offering students a more effective and personalized learning experience.
 
-- The app takes the Youtube Video URL as input.
-- The video, as well as its transcript, is displayed.
-- The Time-Stamped Transcript is available too. On clicking the particular time, the app will start playing the video at the specific time-stamp.
-- The app also allows you to search a particular content and the time-stamp in the video based on the search query. The app also starts playing at the specific time-stamp on clicking the relevant result you need.
-- The app also provides all releveant tools to make notes including highlighting, note editing as well as downloading your notes
+## What it does
+Virtual Study Buddy is a website that ensures that online classes are easy and effective for students. Virtual Study Buddy not only helps students learn virtually but also helps teachers to teach better, as well as improve the learning for individuals who have certain disabilities. 
 
+The feature of AR helps the children to connect more to the subject concepts by allowing learners to interact with the visual representation of the aspect being taught, which increases the engagement level of students as well as provides them a hands-on implementation approach virtually.
 
-## Installation
+The Text-to-Speech and Speech-to-Text feature of the website is specially dedicated to making the lives of students easier, including those individuals with learning disabilities. As the name suggests, the Text-to-Speech feature allows students to hear the text notes/material in an audio form. The Text-to-Speech feature is incorporated keeping in mind the individuals with certain disabilities, for example, visually impaired individuals, learners with dyslexia, teachers with speaking disabilities, etc.
+The Speech-to-Text Learning feature aims to help children who have writing disabilities. Using this feature, children will be able to speak and the computer will write whatever they say down for them. This can also help in taking notes.
 
-###### The app is available and can be used at: (currently unavailable due to paid heroku hosting services)
-https://youtube-study-buddy.herokuapp.com/
+There is also another special feature of emotion detection, that allows teachers to detect and realize the mood of the students, so they can monitor the focus and engagement level of class and teach according to it. 
 
-###### Local Installation:
-
-Download the zip folder Youtube Study Buddy App. 
-(Link: https://github.com/Sompa-Bhui/Youtube-Study-Buddy/tree/main/Youtube-Study-Buddy%20App)
-
-On terminal write the commands:
-
-```sh
- cd Youtube Study Buddy App
- export FLASK_APP=Main.py
-```
-
-Install the dependencies:
-
-```sh
-pip install -r requirements.txt
-```
-
-Run the app by using command:
-
-```sh
-flask run
-```
-
-## Using The App
-
-#### Main Page
-
-**Enter Valid Youtube URL:**
-Enter a valid Youtube URL starting with https://www.youtube.com/.
-
-**Search in Video:**
-Enter search query to search in the video. It can be entered later too.
-
-**Warnings:**
- *Invalid Link! Please try again!* => The link entered is not a valid Youtube URL. Please check if it starts with " https://www.youtube.com/"
-*Transcript Not Available :(( Sorry Try Some Other Video.* => Sorry, the transcript is not available for the video entered in this case. You can always enter another video,  
-
-![alt text](https://github.com/Sompa-Bhui/Youtube-Study-Buddy/blob/main/readmeImages/mainmenu.png)
----
-
-
-#### Navbar Options
-**Home button** - Allows you to navigate back to homepage.
-
-**Transcript** - Allows you to view the entire transcript at once.
-
-**Time-Stamped Transcript** - It provides the transcipt time-stamped. Clicking on the particular time-stamp will play the video at the exact time-stamp.
-
-**Search** - This allows you to search for any content in transcript and provides a list of relevant searches. You don't need to type the exact sentence, the search feauture will take care of it and give you all the relevant choices.
-
-![alt text](https://github.com/Sompa-/Youtube-Study-Buddy/blob/main/readmeImages/navbar.png)
----
-
-#### Study Mode
-**Highlight Mode** - It is a toggle button. On switching on the toggle button you will be given an option to enter the hex code of the highlight color that you like. Not entering a hex value will use the default yellow highlight.
-
-**Get Highlighted Text** - On clicking this button all the higlighted text will be copied to your clipboard. You can now easily paste this in the notes editor and make notes easily. 
-
-**Save Notes** - Saving notes will save your notes across various videos. You can open different videos and edit on the same notes. 
-
-**New Note**- This will delete your notes and start a new fresh and clean note.
-
-**Download Notes (MarkDown)** - This will download a markdown of the notes you made.
-
-![alt text](https://github.com/Sompa-Bhui/Youtube-Study-Buddy/blob/main/readmeImages/studymode.png)
----
-
-#### Notes Editor
-
-You can use this to make and edit your notes while studying. The are options to make tables, bold and highlight text and many more!
-
-
-
-## Demo
-Check out the demo at Demo.md
-
-Link: https://github.com/Sompa-Bhui/Youtube-Study-Buddy/blob/main/Demo.md
-
-## License
-
-MIT
-
-**References:**
-[video in demo]: <https://www.youtube.com/watch?v=yOgAbKJGrTA>
-[video in demo]: <https://www.youtube.com/watch?v=I4pQbo5MQOs>
-   
- 
+## How we built it
+First, we designed a prototype in **figma**. Then we made using replit as it gives the results in real-time. We have used CSS, HTML and JS and we also included machine learning 
