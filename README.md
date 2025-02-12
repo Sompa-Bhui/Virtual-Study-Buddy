@@ -2,7 +2,7 @@
 Excel in your studies with a complete virtual education assistant
 
 ## Inspiration
-The increasing shift toward digital education and the growing need for accessible and flexible learning inspired us to build this project. While virtual learning gained prominence during the pandemic, it continues to evolve as a powerful tool for students worldwide. Our goal is to create a socially impactful solution that enhances online learning, making it more engaging, interactive, and inclusive—especially for students with diverse learning needs. By leveraging technology, we aim to bridge gaps in education, offering students a more effective and personalized learning experience.
+The increasing shift toward digital education and the growing need for accessible and flexible learning inspired us to build this project. While virtual learning gained prominence during the pandemic, it continues to evolve as a powerful tool for students worldwide. My goal is to create a socially impactful solution that enhances online learning, making it more engaging, interactive, and inclusive—especially for students with diverse learning needs. By leveraging technology, we aim to bridge gaps in education, offering students a more effective and personalized learning experience.
 
 ## What it does
 Virtual Study Buddy is a website that ensures that online classes are easy and effective for students. Virtual Study Buddy not only helps students learn virtually but also helps teachers to teach better, as well as improve the learning for individuals who have certain disabilities. 
@@ -15,4 +15,4 @@ The Speech-to-Text Learning feature aims to help children who have writing disab
 There is also another special feature of emotion detection, that allows teachers to detect and realize the mood of the students, so they can monitor the focus and engagement level of class and teach according to it. 
 
 ## How we built it
-First, we designed a prototype in **figma**. Then we made using replit as it gives the results in real-time. We have used CSS, HTML and JS and we also included machine learning 
+First, I designed a prototype in **figma**. Then we made using replit as it gives the results in real-time. We have used CSS, HTML and JS and we also included machine learning 
